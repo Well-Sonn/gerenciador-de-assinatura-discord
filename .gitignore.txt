@@ -1,0 +1,10 @@
+# Ignorar a pasta do ambiente virtual
+venv/
+
+# Ignorar arquivos de banco de dados
+db.sqlite3
+
+# Outras coisas comuns para ignorar em projetos Python
+__pycache__/
+*.pyc
+.env
