@@ -4,6 +4,9 @@ venv/
 # Ignorar arquivos de banco de dados
 db.sqlite3
 
+#Variável de ambiente
+.env
+
 # Outras coisas comuns para ignorar em projetos Python
 __pycache__/
 *.pyc
