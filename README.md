@@ -172,4 +172,3 @@ A aplicação usa SQLite com a seguinte estrutura:
 - **Cargos não são atribuídos**: Verifique permissões do bot e IDs dos cargos
 - **Erro de banco**: O SQLite é criado automaticamente na primeira execução
 
--------
